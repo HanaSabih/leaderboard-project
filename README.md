@@ -31,8 +31,7 @@
 
 # 📖Leaderboard <a name="about-project"></a>
 
-This is a Leaderboard: build with a simple HTML list of To Do tasks. This simple web page will be built using webpack and served by a webpack dev server.
-
+ Leaderboardis a website that displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -40,10 +39,12 @@ This is a Leaderboard: build with a simple HTML list of To Do tasks. This simple
 <details>
   <summary>Client</summary>
   <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JAVASCRIPT</li>
-    <li>WEBPACK</li>
+    <li><a href="">HTML</a></li>
+    <li><a href="">CSS</a></li>
+    <li><a href="">JavaScript</a></li>
+    <li><a href="">ES6</a></li>
+    <li><a href="">Webpack</a></li>
+
   </ul>
 </details>
 
@@ -51,8 +52,11 @@ This is a Leaderboard: build with a simple HTML list of To Do tasks. This simple
 
 ### Key Features <a name="key-features"></a>
 
-- **Responsive design**
-- **Used only webpack, CSS, html and Javascript**
+- **Uses Webpack**
+- **Based on latest ES6 syntax**
+- **Used async and await JavaScript features to consume the API**
+- **Used Leaderboard API**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -150,4 +154,4 @@ If you like this project, kindly give a ⭐️.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://hanasabih.github.io/To-Do-list-list-structure/blob/awesome-es6/MIT.md) licensed.
+This project is [MIT](https://github.com/HanaSabih/leaderboard-project/blob/setup-project/LICENSE) licensed.
