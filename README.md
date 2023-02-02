@@ -31,7 +31,8 @@
 
 # 📖Leaderboard <a name="about-project"></a>
 
- Leaderboardis a website that displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service.
+Leaderboardis a website that displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service.
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -56,7 +57,6 @@
 - **Based on latest ES6 syntax**
 - **Used async and await JavaScript features to consume the API**
 - **Used Leaderboard API**
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -101,9 +101,19 @@ Install this project with:
     git clone https://github.com/HanaSabih/leaderboard-project.git
 ```
 
+```sh
+    npm install
+```
+
 ### Usage
 
-To run the project, open index.html with your preferred browser.
+To run the project, execute the following command:
+
+```sh
+    npm start
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Run tests
 
