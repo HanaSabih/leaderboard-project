@@ -10,7 +10,7 @@ import {
   nameInput,
 } from './modules/variables.js';
 
-const apiId = 'https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/giiuGUIYGuhhiHIUHIHuhiuh/scores/';
+const apiId = 'https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/giiuGUIYGuhhHIUHIHuhiuh/scores/';
 
 form.addEventListener('submit', (e) => {
   e.preventDefault();
